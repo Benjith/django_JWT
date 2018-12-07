@@ -1,0 +1,41 @@
+1,CS,Cash, ,1,12,1
+2,PFLS,Profit & Loss A/C, ,1,3,1
+3,SA,Sales Account, ,1,26,1
+4,SRA,Sales Return Account, ,1,26,1
+5,PA,Purchase Account, ,1,23,1
+6,PRA,Purchase Return Account, ,1,23,1
+7,IV,Input VAT, ,1,31,1
+8,OV,Output VAT, ,1,31,1
+9,SUSP,Suspense Account, ,1,16,1
+10,DG,Discount Given, ,1,36,1
+11,DR,Discount Received, ,1,37,1
+13,Supp,Supplier, ,1,22,1
+14,Emp,EMPLOYEE, ,1,18,1
+15,IC,Input CST, ,1,31,1
+16,OC,Output CST, ,1,31,1
+17,SAInc,Sales Incentive, ,1,25,1
+18,BPA,Branch Payable Account, ,1,43,1
+19,SLA,Salary Account, ,1,24,1
+20,FOP,Freight On Purchase, ,1,24,1
+21,RNDOFF,Round Off, ,1,11,1
+22,IDG,Invoice Discount Given, ,1,36,1
+23,IDR,Invoice Discount Recieved, ,1,37,1
+24,BA,BANK ACCOUNT, ,1,13,1
+26,2,Adjustment Amt Account, ,1,11,1
+27,3,Consumable Account, ,1,17,1
+28,4,Input Cess, ,1,31,1
+29,5,Output Cess, ,1,31,1
+30,6,Sales Return Payable, ,1,40,1
+31,7,Default Loyalty Account, ,1,19,1
+32,8,Default Loyalty Payable Account, ,1,14,1
+33,9,PrePaid Coupon Acc, ,1,17,1
+34,10,Prepaid Coupon Payable Acc, ,1,22,1
+35,11,BTO Account, ,1,26,1
+36,12,BTI Account, ,1,23,1
+37,13,Branch Sales, ,1,26,1
+38,ISG,Input SGST, ,1,31,1
+39,OSG,Output SGST, ,1,31,1
+40,ICG,Input CGST, ,1,31,1
+41,OCG,Output CGST, ,1,31,1
+42,IIG,Input IGST, ,1,31,1
+43,IOG,Output IGST, ,1,31,1
